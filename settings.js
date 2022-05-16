@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
+global.owner = ['918822469980']
+global.premium = ['918822469980']
+global.ownernomer = '918822469980'
+global.ownername = 'SungMin'
+global.botname = 'Kaguya Shinomiya'
+global.footer = 'SungMin.'
 global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.region = 'India, NorthEast, Assam'
+global.sc = 'https://youtube.com/channel/UCRXZ4Uyfy6XRDA9hdmeqkTA'
+global.myweb = 'https://www.instagram.com/animequotendious/'
+global.packname = 'kaguya-shinomiya'
+global.author = 'SungMin'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -50,7 +50,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 12,
     monayawal: 1000
 }
    global.rpg = {
